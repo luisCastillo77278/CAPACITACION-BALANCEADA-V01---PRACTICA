@@ -18,7 +18,7 @@
 </head>
 <body style="padding-left:20%">
     <form id="form1" runat="server">
-    <h3>CLIENTES:</h3>
+    <h3>Clientes:</h3>
          <div class="lbls-txts">
              <h5>Favor de capturar el nombre del Cliente</h5><br />
              <%-- PRIMER BLOKE --%> <%-- LABELS Y TEXBOXS --%>
